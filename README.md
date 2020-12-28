@@ -1,3 +1,3 @@
 # compitative-pogramming
-cp
-ds and algo
+# cp
+# ds and algo
